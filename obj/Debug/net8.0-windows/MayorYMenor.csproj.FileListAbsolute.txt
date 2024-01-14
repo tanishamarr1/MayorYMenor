@@ -1,0 +1,16 @@
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\bin\Debug\net8.0-windows\MayorYMenor.exe
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\bin\Debug\net8.0-windows\MayorYMenor.deps.json
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\bin\Debug\net8.0-windows\MayorYMenor.runtimeconfig.json
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\bin\Debug\net8.0-windows\MayorYMenor.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\bin\Debug\net8.0-windows\MayorYMenor.pdb
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.Form1.resources
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.csproj.GenerateResource.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.AssemblyInfoInputs.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.AssemblyInfo.cs
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.csproj.CoreCompileInputs.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\refint\MayorYMenor.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.pdb
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\MayorYMenor.genruntimeconfig.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\MayorYMenor\MayorYMenor\obj\Debug\net8.0-windows\ref\MayorYMenor.dll
